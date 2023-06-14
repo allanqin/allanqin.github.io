@@ -1,0 +1,16 @@
+.project {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.summary {
+    font-style: italic;
+}
+
+.responsibilities {
+    margin-top: 15px;
+}
+
+.margin-bottom {
+    margin-bottom: 50px;
+}
